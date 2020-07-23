@@ -1,0 +1,1 @@
+This is Luc's first git project!
